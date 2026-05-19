@@ -303,8 +303,7 @@ Submit requests through our contact information below.
 
 For questions about these Terms of Service, privacy concerns, or to report abuse, please contact us at:
 
-**Email:** support@nexus.com  
-**Mailing Address:** [Your Physical Address]  
+**Discord Tag:** Kealin9 or the_spiteful_raven 
 **GitHub Issues:** Submit concerns via our official repository
 
 We will respond to inquiries within 30 days of receipt.
